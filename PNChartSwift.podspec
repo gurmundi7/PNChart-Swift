@@ -5,11 +5,11 @@ Pod::Spec.new do |s|
     s.description      = <<-DESC
                           PNChartSwift is a chart library for iOS that allows for easy creation of different types of charts. It's simple to use and can be customized to match the design of your app.
                         DESC
-    s.homepage         = 'https://github.com/gurmundi7/PNChart-Swift'
+    s.homepage         = 'https://github.com/kevinzhow/PNChart-Swift'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
-    s.author           = { 'gurmundi7' => 'hello@gurpreetmundi.com' }
-    s.source           = { :git => 'https://github.com/gurmundi7/PNChart-Swift.git', :tag => "#{s.version}" }
-    s.social_media_url = 'https://twitter.com/gurmundi7'
+    s.author           = { 'kevinzhow' => 'hi@kevinzhow.com' }
+    s.source           = { :git => 'https://github.com/kevinzhow/PNChart-Swift.git', :tag => "#{s.version}" }
+    s.social_media_url = 'https://twitter.com/kevinzhow'
   
     s.ios.deployment_target = '9.0'
     s.swift_version = '5.0'
